@@ -1,10 +1,4 @@
-pip install streamlit
-pip install pandas
-pip install numpy
-pip install matplotlib
-pip isntall seaborn
-pip install os
-pip install gdown
+
 import streamlit as st
 import pandas as pd
 import numpy as np
